@@ -4,7 +4,7 @@ player259_graphql:
     resource: '@Player259GraphQLBundle/Resources/config/routing.xml'
     prefix: /
 
-# To assign endpoint to specific url
+# To assign an endpoint to a specific url
 #player259_graphql_index:
 #    path: /graphql
 #    controller: Player259\GraphQLBundle\Controller\GraphQLController
